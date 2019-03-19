@@ -14,7 +14,7 @@ Simple Node/Express CRUD application and scaffolding to help students quickly ge
 # Install packages
 npm install
 
-#initialize local DB
+# Initialize local database
 mysql < models/schema.sql
 
 # Create .env, update as needed

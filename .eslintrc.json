@@ -33,6 +33,7 @@
             "error",
             "always"
         ],
+        "newline-per-chained-call": [2, {"ignoreChainWithDepth": 3}],
         "prettier/prettier": "error"
     }
 }
